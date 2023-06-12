@@ -1,12 +1,12 @@
 # Creative-rounded-cards
 
-This is made with help of a tutorial available on YouTube
+This is made with help of a tutorial available on YouTube 
 
-Channel name : Online Tutorials
+Channel name :- Online Tutorials
 
-Webpage Link : https://killertian.github.io/Creative-rounded-cards/
+Webpage Link :- https://killertian.github.io/Creative-rounded-cards/
 
-Preview : 
+Preview :- 
 
 # License
 
