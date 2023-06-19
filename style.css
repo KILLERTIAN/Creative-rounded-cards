@@ -45,3 +45,7 @@ body {
     border-bottom-right-radius: 50%;
     transition: 0.5s;
 }
+
+.container .card:hover .box .icon {
+    width: 100%;
+}
