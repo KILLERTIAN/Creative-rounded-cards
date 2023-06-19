@@ -36,3 +36,12 @@ body {
     background: #282828;
     border-radius: 10px;
 }
+
+.container .card .box.icon {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background: var(--clr);
+    border-bottom-right-radius: 50%;
+    transition: 0.5s;
+}
