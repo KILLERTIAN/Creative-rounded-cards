@@ -11,3 +11,28 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+}
+
+.container .card {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background: var(--clr);
+    border-radius: 20px;
+    border-top-left-radius: 70px;
+    overflow: hidden;
+}
+
+.container .card .box {
+    position: absolute;
+    inset: 10px;
+    background: #282828;
+    border-radius: 10px;
+}
