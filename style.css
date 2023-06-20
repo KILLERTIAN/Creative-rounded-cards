@@ -49,3 +49,27 @@ body {
 .container .card:hover .box .icon {
     width: 100%;
 }
+
+.container .card .box .icon::before {
+    content: '';
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-top-left-radius: 30px;
+    box-shadow: -5px -5px 0 5px var(--clr);
+}
+
+.container .card .box .icon::after {
+    content: '';
+    position: absolute;
+    top: -0px;
+    right: -30px;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-top-left-radius: 30px;
+    box-shadow: -5px -5px 0 5px var(--clr);
+}
