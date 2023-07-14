@@ -93,3 +93,18 @@ body {
     color: #fff;
     --ionicon-stroke-width: 20px
 }
+
+.container .card .box .content {
+    position: absolute;
+    top: 150px;
+    padding: 20px;
+    text-align: center;
+}
+
+.container .card .box .content {
+    color: #fff;
+    font-size: 1.35em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
